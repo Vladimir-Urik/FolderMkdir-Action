@@ -2,7 +2,7 @@
 name: 'Folder MKDir'
 description: 'MkDIR Folder'
 inputs:
-  username:
+  folder:
     description: 'folder'
     required: true
 
